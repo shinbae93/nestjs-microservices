@@ -1,4 +1,4 @@
-import { IRepository } from '@app/common/database/base/base-repository.interface'
+import { IRepository } from '@app/common/database/interface/base-repository.interface'
 import { BasePostgreEntity } from './base-entity'
 import {
   DataSource,

@@ -1,1 +1,1 @@
-export * from './mongodb.module'
+export * from './base'
